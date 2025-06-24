@@ -1,3 +1,4 @@
+
 {
     "name": "witchlight-carnival-utils",
     "id": "witchlight-carnival-utils",
@@ -30,11 +31,7 @@
             "github": "brouberol"
         }
     ],
-    "manifestPlusVersion": "1.2.0",
     "media": [],
-    "system": [
-        "dnd5e"
-    ],
     "packs": [
         {
             "name": "macros",
